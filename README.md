@@ -9,3 +9,4 @@ FRONTEND: https://dev-julians-projects-fa783d41.vercel.app
 BACKEND: localhost:5000/api/
 JOSE MARMOLEJO
 JULIAN PEDRAZA
+![Imagen de WhatsApp 2025-05-18 a las 22 52 04_55010fcb](https://github.com/user-attachments/assets/b6f0a043-0e8c-4666-b6cd-a5a8cf286926)
