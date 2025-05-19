@@ -3,3 +3,8 @@
 ## Juan David Murillo
 ### Universidad de La Sabana
 #### 2024 - I
+GRUPO DOBLEJJ
+https://github.com/JDML21/WEB-FOOD-SABANA.git
+https://dev-julians-projects-fa783d41.vercel.app
+JOSE MARMOLEJO
+JULIAN PEDRAZA
