@@ -4,7 +4,7 @@
 ### Universidad de La Sabana
 #### 2024 - I
 GRUPO DOBLEJJ
-https://github.com/JDML21/WEB-FOOD-SABANA.git
+https://github.com/JDML21/WEB-FOOD-SABANA.git //Entrar a la rama master
 https://dev-julians-projects-fa783d41.vercel.app
 JOSE MARMOLEJO
 JULIAN PEDRAZA
